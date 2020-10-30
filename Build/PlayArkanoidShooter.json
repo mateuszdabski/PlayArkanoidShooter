@@ -1,7 +1,7 @@
 {
 "companyName": "Mateusz Dąbski",
 "productName": "Arkanoid Shooter",
-"productVersion": "0.3",
+"productVersion": "0.4",
 "dataUrl": "PlayArkanoidShooter.data.unityweb",
 "wasmCodeUrl": "PlayArkanoidShooter.wasm.code.unityweb",
 "wasmFrameworkUrl": "PlayArkanoidShooter.wasm.framework.unityweb",
